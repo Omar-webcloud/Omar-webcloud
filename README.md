@@ -20,7 +20,7 @@ I’m driven to build clean, user-friendly applications and love collaborating o
 
 ## 📂 Featured Projects  
 🔹 [Role-Playing-Game](https://omar-webcloud.github.io/Role-Playing-Game/)  
-🔹 [Calculator](https://omar-webcloud.github.io/Calculator/)  
+🔹 [E-commerce App](https://fresh-farm-zeta.vercel.app/)  
 🔹 [BMI Calculator](https://omar-webcloud.github.io/Bmi-calculator/)  
 
 ---
