@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar  
 
-🚀 **Frontend Developer | Self-Taught | From Bangladesh**  
+🚀 **Frontend Developer | From Bangladesh**  
 
 I create **functional, responsive, and visually appealing websites** with a mix of **technical skills** and **communication abilities**.  
 Even though my background is in **English Literature**, my passion and self-learning journey in coding helped me transition into web development.  
@@ -9,19 +9,14 @@ I’m driven to build clean, user-friendly applications and love collaborating o
 ---
 
 ## 🛠️ Skills & Tools  
-<p>
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framework-React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+<p> <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </p>
 
 ---
 
 ## 📂 Featured Projects  
-🔹 [Role-Playing-Game](https://omar-webcloud.github.io/Role-Playing-Game/)  
+🔹 [PlastiTrack Web App](https://plasti-track.vercel.app/)  
 🔹 [E-commerce App](https://fresh-farm-zeta.vercel.app/)  
-🔹 [BMI Calculator](https://omar-webcloud.github.io/Bmi-calculator/)  
+🔹 [Movie Explorer App](https://kino-xplorer.vercel.app/)  
 
 ---
 
@@ -37,11 +32,4 @@ I’m driven to build clean, user-friendly applications and love collaborating o
 ---
 
 ## 📫 Connect with Me  
-<p>
-  <a href="https://www.linkedin.com/in/md-omar-faruk-chowdhury" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p> <a href="https://www.linkedin.com/in/md-omar-faruk-chowdhury" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:omarfarukcihs@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
