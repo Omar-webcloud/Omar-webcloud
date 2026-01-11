@@ -2,10 +2,8 @@
 
 🚀 **Frontend Developer | From Bangladesh**  
 
-I create **functional, responsive, and visually appealing websites** with a mix of **technical skills** and **communication abilities**.  
-Even though my background is in **English Literature**, my passion and self-learning journey in coding helped me transition into web development.  
-I’m driven to build clean, user-friendly applications and love collaborating on creative projects.  
-
+I design conversion focused websites based on real user behavior, strong performance, and clear interfaces. Every decision is made to reduce friction, improve usability, and guide people toward action.
+My process blends UX research, structure, and visual design with front end performance best practices to create fast, intuitive experiences that drive real improvements in engagement and conversions.
 ---
 
 ## 🛠️ Skills & Tools  
