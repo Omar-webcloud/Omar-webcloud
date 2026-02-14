@@ -52,6 +52,22 @@ I combine user focused design with modern frontend stacks and performance optimi
 
 ---
 
+## 💼 Experience
+   Web Developer Intern
+
+## Webermelon — Web & Software Development Agency
+📅 Feb 2026 – Present
+
+- Built and optimized responsive website using modern frontend stacks.
+
+- Implemented pixel-perfect UI from design systems and Figma prototypes.
+
+- Improved performance and SEO to enhance speed, visibility, and user engagement.
+
+- Collaborated in cross-functional teams to deliver scalable, production-ready solutions.
+
+---
+
 ## 📜 Certifications
 
 - **Sololearn — Web Development**  
