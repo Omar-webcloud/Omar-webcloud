@@ -55,7 +55,7 @@ I combine user focused design with modern frontend stacks and performance optimi
 ## 💼 Experience
    Web Developer Intern
 
-## Webermelon — Web & Software Development Agency
+### Webermelon — Web & Software Development Agency
 📅 Feb 2026 – Present
 
 - Built and optimized responsive website using modern frontend stacks.
