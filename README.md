@@ -4,9 +4,7 @@
 
 **Frontend Developer | Bangladesh**
 
-I build fast, modern web applications with a strong focus on web performance, SEO best practices, and pixel perfect UI. My work centers on creating intuitive UX, clean architecture, and reliable frontend systems that improve usability, engagement, and conversions.
-
-I combine user focused design with modern frontend stacks and performance optimization to deliver scalable, production ready experiences.
+Been building websites and web apps for a while, focusing on pixel-perfect UI, smooth UX, fast, scalable frontend systems, SEO, and accessibility.
 
 ---
 
