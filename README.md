@@ -89,6 +89,11 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-webcloud&theme=dark)](https://git.io/streak-stats)
+
+---
+
+
 ## 🌐 Portfolio
 
 👉 https://omarwebcloud.netlify.app/
