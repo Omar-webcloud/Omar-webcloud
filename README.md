@@ -41,23 +41,27 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 
 ## 📂 Featured Projects
 
-1. **PlastiTrack – Web Application**  
+1. **Syntaxa Grammar Quiz**  
+   🔗 https://syntaxa-ten.vercel.app/  
+   *A modern educational application built to enhance English language mastery through engaging interactive assessments.*
+
+2. **PlastiTrack – Web Application**  
    🔗 https://plasti-track.vercel.app/  
    *A sustainability-focused platform designed for tracking plastic usage with performance and usability in mind.*
 
-2. **WebChronicles**  
+3. **WebChronicles**  
    🔗 https://web-chronicles.vercel.app/  
    *A modern API data-driven platform showcasing structured layouts, responsive design, and clean navigation.*
 
-3. **Blogging Web Application**  
+4. **Blogging Web Application**  
    🔗 https://bloggin-app-six.vercel.app/  
    *A full-featured blogging platform emphasizing readability, content hierarchy, and user engagement.*
 
-4. **Kino-Xplorer – Movie Browser**  
+5. **Kino-Xplorer – Movie Browser**  
    🔗 https://kino-xplorer.vercel.app/  
    *An interactive movie discovery app with dynamic data fetching, optimized UI, and intuitive filtering.*
 
-5. **Fresh Farm – E-commerce Platform**  
+6. **Fresh Farm – E-commerce Platform**  
    🔗 https://fresh-farm-zeta.vercel.app/  
    *A conversion-focused e-commerce experience with product browsing, responsive layouts, and performance-first design.*
 
