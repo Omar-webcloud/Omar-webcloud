@@ -34,6 +34,9 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 
   <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/SCRUM-5A2E7C?style=for-the-badge&logo=azuredevops&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-D63384?style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
 
 
@@ -42,27 +45,27 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 ## 📂 Featured Projects
 
 1. **Syntaxa Grammar Quiz**  
-   🔗 https://syntaxa-ten.vercel.app/  
+   🔗 [Live Preview](https://syntaxa-ten.vercel.app/)  
    *A modern educational application built to enhance English language mastery through engaging interactive assessments.*
 
 2. **PlastiTrack – Web Application**  
-   🔗 https://plasti-track.vercel.app/  
+   🔗 [Live Preview](https://plasti-track.vercel.app/)  
    *A sustainability-focused platform designed for tracking plastic usage with performance and usability in mind.*
 
 3. **WebChronicles**  
-   🔗 https://web-chronicles.vercel.app/  
+   🔗 [Live Preview](https://web-chronicles.vercel.app/)  
    *A modern API data-driven platform showcasing structured layouts, responsive design, and clean navigation.*
 
 4. **Blogging Web Application**  
-   🔗 https://bloggin-app-six.vercel.app/  
+   🔗 [Live Preview](https://bloggin-app-six.vercel.app/)  
    *A full-featured blogging platform emphasizing readability, content hierarchy, and user engagement.*
 
 5. **Kino-Xplorer – Movie Browser**  
-   🔗 https://kino-xplorer.vercel.app/  
+   🔗 [Live Preview](https://kino-xplorer.vercel.app/)  
    *An interactive movie discovery app with dynamic data fetching, optimized UI, and intuitive filtering.*
 
 6. **Fresh Farm – E-commerce Platform**  
-   🔗 https://fresh-farm-zeta.vercel.app/  
+   🔗 [Live Preview](https://fresh-farm-zeta.vercel.app/)  
    *A conversion-focused e-commerce experience with product browsing, responsive layouts, and performance-first design.*
 
 ---
@@ -86,10 +89,10 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 ## 📜 Certifications
 
 - **Sololearn — Web Development**  
-  🔗 https://api2.sololearn.com/v2/certificates/CC-HMCA6F6M/image/png
+  🔗 [View Certificate](https://api2.sololearn.com/v2/certificates/CC-HMCA6F6M/image/png)
 
 - **freeCodeCamp — Responsive Web Design**  
-  🔗 https://freecodecamp.org/certification/fcc-43a93b12-1d40-4a5b-a38b-9b4846c24ed9/responsive-web-design
+  🔗 [View Certificate](https://freecodecamp.org/certification/fcc-43a93b12-1d40-4a5b-a38b-9b4846c24ed9/responsive-web-design)
 
 ---
 
@@ -100,7 +103,7 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 
 ## 🌐 Portfolio
 
-👉 https://omarwebcloud.netlify.app/
+👉 [Visit Portfolio](https://omarwebcloud.netlify.app/)
 
 ---
 
