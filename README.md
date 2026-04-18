@@ -35,6 +35,8 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
   <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/SCRUM-5A2E7C?style=for-the-badge&logo=azuredevops&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Elementor-D63384?style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
