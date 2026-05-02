@@ -46,44 +46,45 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 
 ## 📂 Featured Projects
 
-1. **Syntaxa Grammar Quiz**  
-   🔗 [Live Preview](https://syntaxa-ten.vercel.app/)  
-   *A modern educational application built to enhance English language mastery through engaging interactive assessments.*
-
-2. **PlastiTrack – Web Application**  
-   🔗 [Live Preview](https://plasti-track.vercel.app/)  
-   *A sustainability-focused platform designed for tracking plastic usage with performance and usability in mind.*
-
-3. **WebChronicles**  
-   🔗 [Live Preview](https://web-chronicles.vercel.app/)  
-   *A modern API data-driven platform showcasing structured layouts, responsive design, and clean navigation.*
-
-4. **Blogging Web Application**  
+1. **Bloggin' - Full-stack Blog App**  
    🔗 [Live Preview](https://bloggin-app-six.vercel.app/)  
    *A full-featured blogging platform emphasizing readability, content hierarchy, and user engagement.*
 
-5. **Kino-Xplorer – Movie Browser**  
-   🔗 [Live Preview](https://kino-xplorer.vercel.app/)  
-   *An interactive movie discovery app with dynamic data fetching, optimized UI, and intuitive filtering.*
+2. **Syntaxa Grammar Quiz**  
+   🔗 [Live Preview](https://syntaxa-ten.vercel.app/)  
+   *A modern educational application built to enhance English language mastery through engaging interactive assessments.*
 
-6. **Fresh Farm – E-commerce Platform**  
+3. **PlastiTrack – Web Application**  
+   🔗 [Live Preview](https://plasti-track.vercel.app/)  
+   *A sustainability-focused platform designed for tracking plastic usage with performance and usability in mind.*
+
+4. **Fresh Farm – E-commerce Platform**  
    🔗 [Live Preview](https://fresh-farm-zeta.vercel.app/)  
    *A conversion-focused e-commerce experience with product browsing, responsive layouts, and performance-first design.*
+
+5. **WebChronicles**  
+   🔗 [Live Preview](https://web-chronicles.vercel.app/)  
+   *A modern API data-driven platform showcasing structured layouts, responsive design, and clean navigation.*
+
+6. **Kino-Xplorer – Movie Browser**  
+   🔗 [Live Preview](https://kino-xplorer.vercel.app/)  
+   *An interactive movie discovery app with dynamic data fetching, optimized UI, and intuitive filtering.*
 
 ---
 
 ## 💼 Experience
-   Web Developer Intern
 
-### Webermelon — Web & Software Development Agency
-📅 Feb 2026 – Present
+### Webermelon – Web & Software Development Agency
+
+**Frontend Developer**  
+📅 May 2026 – Present
+
+**Web Developer Intern**  
+📅 February 2026 – April 2026
 
 - Built and optimized responsive website using modern frontend stacks.
-
 - Implemented pixel-perfect UI from design systems and Figma prototypes.
-
 - Improved performance and SEO to enhance speed, visibility, and user engagement.
-
 - Collaborated in cross-functional teams to deliver scalable, production-ready solutions.
 
 ---
