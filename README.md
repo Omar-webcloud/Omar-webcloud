@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar
+#  Hi, I'm Omar
 <img width="100%" alt="linkdin banner 1" src="https://github.com/user-attachments/assets/6b1386a2-09b5-4029-b180-daf38377cdc2" />
 
 
