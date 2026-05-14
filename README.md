@@ -8,7 +8,7 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,7 +44,7 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 1. **Bloggin' - Full-stack Blog App**  
    🔗 [Live Preview](https://bloggin-app-six.vercel.app/)  
@@ -72,15 +72,15 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Webermelon – Web & Software Development Agency
 
 **Frontend Developer**  
-📅 May 2026 – Present
+ May 2026 – Present
 
 **Web Developer Intern**  
-📅 February 2026 – April 2026
+ February 2026 – April 2026
 
 - Built and optimized responsive website using modern frontend stacks.
 - Implemented pixel-perfect UI from design systems and Figma prototypes.
@@ -89,7 +89,7 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - **Sololearn — Web Development**  
   🔗 [View Certificate](https://api2.sololearn.com/v2/certificates/CC-HMCA6F6M/image/png)
@@ -104,13 +104,13 @@ Been building websites and web apps for a while, focusing on pixel-perfect UI, s
 ---
 
 
-## 🌐 Portfolio
+##  Portfolio
 
-👉 [Visit Portfolio](https://omarwebcloud.netlify.app/)
+ [Visit Portfolio](https://omarwebcloud.netlify.app/)
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/md-omar-faruk-chowdhury" target="_blank">
