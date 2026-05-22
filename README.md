@@ -1,5 +1,6 @@
+
 #  Hi, I'm Omar
-<img width="100%" alt="linkdin banner 1" src="https://github.com/user-attachments/assets/6b1386a2-09b5-4029-b180-daf38377cdc2" />
+<img width="6336" height="1584" alt="linkdin banner 1 (1)" src="https://github.com/user-attachments/assets/b34b9b35-c801-4059-9d76-734d998b9085" />
 
 
 **Frontend Developer | Bangladesh**
