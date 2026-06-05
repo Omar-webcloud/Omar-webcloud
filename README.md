@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="6336" height="1584" alt="Omar's Banner" src="https://github.com/user-attachments/assets/b34b9b35-c801-4059-9d76-734d998b9085" />
+<img width="1983" height="793" alt="Github_Cover" src="https://github.com/user-attachments/assets/b9cbd122-26f6-413c-825c-deb61aedd416" />
+
 
 <br/>
 <br/>
@@ -118,7 +119,11 @@ I currently work as a Frontend Developer at Webermelon, where I've been building
 
 ## GitHub Activity
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Omar-webcloud&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
