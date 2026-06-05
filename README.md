@@ -28,17 +28,6 @@
 
 </div>
 
----
-
-## About Me
-
-I'm a full stack web developer based in Bangladesh. I've been building websites and web apps professionally for a while now, and the thing I care most about is the quality of the final output — clean interfaces, fast load times, and code that's actually maintainable.
-
-I currently work as a Frontend Developer at Webermelon, where I've been building and shipping production features since May 2026. Most of my daily work lives in React and Next.js, though I'm comfortable on the backend too when a project calls for it.
-
-- I take design seriously and work closely from Figma to make sure implementations match the original intent
-- Performance and SEO are things I build into the process from the start, not add on at the end
-- I've worked in Agile teams across different disciplines and know how to collaborate well under real deadlines
 
 ---
 
