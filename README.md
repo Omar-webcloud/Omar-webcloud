@@ -90,12 +90,12 @@
 
 | Project | Description | Live |
 |---------|-------------|------|
+| **Fable – E-Book Platform** | A full-stack RBAC-powered e-book platform featuring dedicated dashboards for **Super Admin, Writers, and Readers**, content management, authentication, and modern UI | [Preview](https://fable-umber.vercel.app/) |
+| **SalesPilot – Sales Dashboard** | A modern analytics dashboard with revenue tracking, sales funnel visualization, team performance metrics, product management, and a real-time Currency Converter API | [Preview](https://sales-dashboard-omar.vercel.app/) |
 | **Bloggin'** | A full stack blogging platform focused on readability, clean content structure, and keeping readers engaged | [Preview](https://bloggin-app-six.vercel.app/) |
 | **Syntaxa Grammar Quiz** | An interactive English grammar quiz app with adaptive assessments and a clean educational interface | [Preview](https://syntaxa-ten.vercel.app/) |
 | **PlastiTrack** | A web app for tracking plastic usage, built with a strong focus on performance and accessibility | [Preview](https://plasti-track.vercel.app/) |
 | **Fresh Farm** | An e-commerce platform designed around conversions, with responsive layouts and fast load times | [Preview](https://fresh-farm-zeta.vercel.app/) |
-| **WebChronicles** | An API driven content platform with structured layouts, clean navigation, and fully responsive design | [Preview](https://web-chronicles.vercel.app/) |
-| **Kino-Xplorer** | A movie discovery app with dynamic data fetching, smart filtering, and a clean optimized UI | [Preview](https://kino-xplorer.vercel.app/) |
 
 ---
 
