@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
- <a href="https://omarwebcloud.netlify.app/" target="_blank">
+ <a href="https://omar-webcloud.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-F5F5F5?style=for-the-badge&logo=netlify&logoColor=000000" />
 </a>
 </p>
