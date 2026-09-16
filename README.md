@@ -102,11 +102,11 @@
 
 ---
 
-
 ## Certifications
 
-- **Sololearn**, Web Development &nbsp; [View Certificate](https://api2.sololearn.com/v2/certificates/CC-HMCA6F6M/image/png)
-- **freeCodeCamp**, Responsive Web Design &nbsp; [View Certificate](https://freecodecamp.org/certification/fcc-43a93b12-1d40-4a5b-a38b-9b4846c24ed9/responsive-web-design)
+* **Programming Hero**, Complete Web Development Course — August 2026   [View Certificate](https://web.programming-hero.com/verification?validationNumber=PHbatch-13WEB13-11321284)
+* **Sololearn**, Web Development   [View Certificate](https://api2.sololearn.com/v2/certificates/CC-HMCA6F6M/image/png)
+* **freeCodeCamp**, Responsive Web Design   [View Certificate](https://freecodecamp.org/certification/fcc-43a93b12-1d40-4a5b-a38b-9b4846c24ed9/responsive-web-design)
 
 ---
 
